@@ -1,7 +1,7 @@
 import React from "react";
 
-import Header from './components/Header/Header'
-import PhotoToday from './components/PhotoToday/PhotoToday'
+import Header from "./components/Header/Header";
+import PhotoToday from "./components/PhotoToday/PhotoToday";
 import "./App.css";
 
 function App() {
